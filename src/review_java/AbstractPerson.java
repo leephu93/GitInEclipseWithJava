@@ -9,7 +9,7 @@ package review_java;
  *
  * @author leeph
  */
-abstract public class AbstractPerson {
+public abstract class AbstractPerson {
     
     public String name;
     
