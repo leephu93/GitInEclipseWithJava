@@ -11,6 +11,7 @@ package review_java;
  */
 public abstract class AbstractPerson {
     
+	//Xin Chào
     public String name;
     
     abstract public void A();
